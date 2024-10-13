@@ -24,6 +24,10 @@ Make sure you have the following installed:
 
 - Node.js
 - npm
+- 
+## Results
+
+I have added the result images in a `results` folder. You can check them out for a visual overview of the application's functionality.
 
  
 ## Getting Started
