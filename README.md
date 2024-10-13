@@ -1,16 +1,37 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
+ #Profile Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web application designed to allow users to view a list of profiles and interactively explore the addresses of each profile on a map. It was developed as a case study assigned by Bynry Inc. The application aims to provide an intuitive and user-friendly way to navigate through profiles and visualize the geographic locations associated with each individual.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# FrontendCaseStudy
->>>>>>> f7f57d923c5d633231a01fd97c2e1d08154af143
-=======
-# ProfileManagement
->>>>>>> c347d5d9a829858bb68affab960871c7ed039dc8
+- **Profile Listing**: View a list of profiles with their basic details.
+- **Interactive Map**: Click on a profile to view their address on an interactive map.
+- **Search Functionality**: Easily search for profiles by name.
+- **Profile Management**: Admin panel to add, delete, and manage profiles.
+
+## Technologies Used
+
+- **Frontend**: React
+- **State Management**: React Hooks
+- **Styling**: Tailwind CSS
+ 
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm
+
+ 
+## Getting Started
+
+To get a local copy of this project up and running, follow these simple steps:
+
+1. Clone the repository:
+2. 
+   ```bash
+   git clone https://github.com/shahinsk17/ProfileManagement.git
+ 
